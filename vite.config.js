@@ -11,5 +11,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/React_assignment_03/",
+  base: "/React_Assignment_03/",
 })
